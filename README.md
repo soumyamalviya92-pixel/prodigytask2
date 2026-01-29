@@ -1,5 +1,5 @@
 
-# Prodigy – Task 02  (Image Generation with Pre-trained Models)
+#  Task 02 - Image Generation with Pre-trained Models
 
 ### 📌 Task Description
 This task focuses on generating images from text prompts using **pre-trained generative models** such as **Stable Diffusion** or **DALL·E Mini**.  
